@@ -1,0 +1,17 @@
+{
+  "last_update": "2026-09-26",
+  "total": 0,
+  "by_protocol": {
+    "vless": 0,
+    "reality": 0,
+    "hysteria2": 0,
+    "shadowsocks": 0,
+    "trojan": 0,
+    "vmess": 0
+  },
+  "by_status": {
+    "reachable": 0,
+    "unreachable": 0,
+    "timeout": 0
+  }
+}

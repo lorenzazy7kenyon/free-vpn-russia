@@ -1,0 +1,12 @@
+{
+  "sources": [
+    {
+      "name": "Пример источника (заполните перед включением)",
+      "url": "SOURCE_URL",
+      "type": "base64",
+      "enabled": false,
+      "last_updated": null,
+      "license": "не определены — источник не включён"
+    }
+  ]
+}
