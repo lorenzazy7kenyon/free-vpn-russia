@@ -22,6 +22,20 @@
 
 ## 🆓 Бесплатные VPN-конфигурации
 
+<!-- NODES:BEGIN -->
+**🔄 Обновлено: 27.09.2026 12:10 (МСК) · доступных узлов: 3**
+
+_Каждый узел прошёл автоматическую проверку: реальное подключение → доступность из России → тест скорости. Список обновляется каждые 5 часов._
+
+**VLESS** — 3 шт.
+```text
+vless://5272cd9f-a028-4452-ad8a-9bc21f87bb19@38.244.20.25:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=0dIyov95G3A1ySANsJzdYY9DGLvaIFU8ofJf3Jtv1Ds&security=reality&sid=befa80d97af98b74&sni=www.apple.com&type=tcp#%40ru_hight_vpn_bot
+vless://52ecd83b-b6c1-41ee-bc36-049755bd33d2@5.78.159.214:80?security=reality&encryption=none&pbk=NTXb7QGg9EyPkpG-7lmBNNaqf4473p_l8ITmTH-xmHg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=5.78.159.214&sid=0db5c018ed7bb596#%40ru_hight_vpn_bot
+vless://52ecd83b-b6c1-41ee-bc36-049755bd33d2@5.78.159.214:80?encryption=none&flow=xtls-rprx-vision&fp=&pbk=NTXb7QGg9EyPkpG-7lmBNNaqf4473p_l8ITmTH-xmHg&security=reality&sid=0db5c018ed7bb596&sni=5.78.159.214&type=tcp#%40ru_hight_vpn_bot
+```
+
+<!-- NODES:END -->
+
 Конфигурации разделены по протоколам:
 
 | Протокол | Каталог | Подписка | Описание |
