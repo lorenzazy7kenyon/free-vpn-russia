@@ -23,50 +23,39 @@
 ## 🆓 Бесплатные VPN-конфигурации
 
 <!-- NODES:BEGIN -->
-**🔄 Обновлено: 28.09.2026 23:09 (МСК) · доступных узлов: 34**
+**🔄 Обновлено: 29.09.2026 09:28 (МСК) · доступных узлов: 27**
 
-_Каждый узел прошёл автоматическую проверку: реальное подключение → доступность из России → тест скорости. Список обновляется каждые 5 часов._
+_Каждый узел прошёл автоматическую проверку: реальное подключение → тест скорости. Список обновляется автоматически._
 
-**VLESS** — 32 шт.
+**VLESS** — 27 шт.
 ```text
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.229:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40ru_hight_vpn_bot
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.223:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40ru_hight_vpn_bot
-vless://25284368-40d5-4abe-9f56-54a07e88a7af@129.101.120.5:37951?fp=firefox&flow=xtls-rprx-vision&encryption=none&sid=a9e21fd097d019c6&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&security=reality&pbk=O6ZOpoz4sxon8iHxCd5EEvx2K9NUThd4SvOCBEvADEI&type=tcp&sni=nl2.dzvn.space#%40ru_hight_vpn_bot
-vless://e96896d8-72d1-496f-8d28-b3fa0de4a562@94.237.40.197:443?security=reality&encryption=none&pbk=RYfzci_ctBzEbBah0jwygnWrGer9_LQfjOgmh9VizQE&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&spx=/05bd2aba76ceb96&type=tcp&sni=bazitory.com&sid=f9#%40ru_hight_vpn_bot
-vless://ea188657-750a-4aba-ac58-d6d114047b4d@p2real33.greewebservices.ir:1330?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#%40ru_hight_vpn_bot
-vless://9d672694-c146-422e-b3b5-3717a38a0fcc@fr.api-music-fa.com:2053?path=/api/voip/updates/static/fr2035&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=fr.api-music-fa.com&fp=chrome&type=ws&allowInsecure=0&sni=fr.api-music-fa.com#%40ru_hight_vpn_bot
-vless://ea188657-750a-4aba-ac58-d6d114047b4d@p2real33.greewebservices.ir:1330?type=tcp&headerType=none&security=reality&fp=ios&sni=play.googleapis.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3#%40ru_hight_vpn_bot
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40ru_hight_vpn_bot
-vless://cf343405-da5b-248f-0164-193c3cf9e271@victoryprovpn-production-30ea.up.railway.app:443?path=/ws/cf343405-da5b-248f-0164-193c3cf9e271&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=victoryprovpn-production-30ea.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=victoryprovpn-production-30ea.up.railway.app#%40ru_hight_vpn_bot
-vless://ID TEL : V2XNET@199.232.78.101:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=imcreeprddde43e.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#%40ru_hight_vpn_bot
-vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?path=/ws&security=none&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#%40ru_hight_vpn_bot
-vless://ea188657-750a-4aba-ac58-d6d114047b4d@p2real22.greewebservices.ir:1320?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#%40ru_hight_vpn_bot
-vless://5fcdc9b7-e70f-4a5c-85c3-e018ad818326@82.24.203.20:2087?path=/fd5ba98a3970&security=none&encryption=none&type=ws#%40ru_hight_vpn_bot
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&path=/kavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#%40ru_hight_vpn_bot
-vless://e2a4dbed-1353-44ac-b4ff-51dcfdc58dcf@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40ru_hight_vpn_bot
-vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.19:2063?type=tcp&security=reality&sni=rusbid.de&fp=chrome&flow=xtls-rprx-vision&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&encryption=none#%40ru_hight_vpn_bot
-vless://c21631d5-36c9-4664-b575-97eca17456be@neth8.lunariai.ru:443?encryption=none&security=none&type=ws&host=neth8.lunariai.ru&path=/#%40ru_hight_vpn_bot
-vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@18.139.227.162:28243?security=reality&encryption=none&pbk=IXxfPvq2OkbSuA-ZTBFpMzkDU1uO8dEI1e7s9VfHh1Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7996bf4dcf194d18#%40ru_hight_vpn_bot
-vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@54.251.239.81:26415?security=reality&encryption=none&pbk=eC5S3o9uFN6i_YjDjiALCXbc_dzh3kEm2C5zduDGtS8&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=b7dd999667b0406e#%40ru_hight_vpn_bot
-vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@54.251.239.81:26415?security=reality&encryption=none&pbk=eC5S3o9uFN6i_YjDjiALCXbc_dzh3kEm2C5zduDGtS8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=b7dd999667b0406e#%40ru_hight_vpn_bot
-vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@54.251.239.81:26415/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=eC5S3o9uFN6i_YjDjiALCXbc_dzh3kEm2C5zduDGtS8&sid=b7dd999667b0406e#%40ru_hight_vpn_bot
-vless://d342d11e-d224-4463-b982-532309285094@cf.877774.xyz:443?encryption=none&type=ws&path=/&host=ccc.010304.xyz&security=tls&sni=ccc.010304.xyz&fp=chrome#%40ru_hight_vpn_bot
-vless://0370b162-baff-4757-86cc-cce4bf07f6f1@78.111.89.171:443?security=reality&encryption=none&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=cfe08c23a85f24#%40ru_hight_vpn_bot
-vless://162767fb-7f6a-4e09-af6d-0ace18cbb571@tun.zelnora.ir:64584?encryption=mlkem768x25519plus.native.0rtt._xl7rG7-7RPK8CLZH1PaA7dmU6rLYWhTa3YcGonEkVY&security=none&type=tcp&headerType=none#%40ru_hight_vpn_bot
-vless://d342d11e-d224-4463-b982-532309285094@cf.877774.xyz:443?encryption=none&type=ws&path=/&host=ccc.010304.xyz&security=tls&sni=ccc.010304.xyz&fp=chrome#%40ru_hight_vpn_bot
-vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&host=--v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#%40ru_hight_vpn_bot
-vless://9e3132b8-b595-444a-833a-2de44789f9d7@132.243.203.214:8443?path=/&security=tls&encryption=none&insecure=0&host=shephe.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=shephe.dpdns.org#%40ru_hight_vpn_bot
-vless://17d29827-7cf1-4115-b40d-548e10ec355d@186.246.21.156:40443?security=reality&encryption=none&pbk=bjOGTQ4xsiFbyCPM_WzoK53L130rW5vZJtuYDJx_pkM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=aa3c#%40ru_hight_vpn_bot
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.211:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#%40ru_hight_vpn_bot
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=/fp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#%40ru_hight_vpn_bot
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.52:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40ru_hight_vpn_bot
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40ru_hight_vpn_bot
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.212:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40ru_hight_vpn_bot
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40ru_hight_vpn_bot
-vless://8d2341a3-13b8-4e5e-84e1-da1c4923149a@193.34.213.10:443?security=reality&encryption=none&pbk=NtaFdDQFRPxPPIcRc-qyYDbL9mI_miwnaHcdLWvpgmo&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=plfsdd.dendiboss.org&sid=9c2378562188c3cb#%40ru_hight_vpn_bot
-```
-
-**Trojan** — 2 шт.
-```text
-trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&host=www.volumeroot.com&fp=chrome&type=ws&sni=www.volumeroot.com#%40ru_hight_vpn_bot
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&host=www.pleadcourt.org&type=ws&sni=www.pleadcourt.org#%40ru_hight_vpn_bot
+vless://03dc60cb-a8d4-4226-93fe-0e6cbf77fe5a@69.48.201.136:30016?encryption=none&security=none&type=ws&host=uspanel.unixzone.us&path=/usserver#%40ru_hight_vpn_bot
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40ru_hight_vpn_bot
+vless://03dc60cb-a8d4-4226-93fe-0e6cbf77fe5a@69.48.201.136:30016?path=/usserver&security=none&encryption=none&host=uspanel.unixzone.us&type=ws#%40ru_hight_vpn_bot
+vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?security=reality&encryption=none&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=cd21e552537c7c0b#%40ru_hight_vpn_bot
+vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?security=reality&encryption=none&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=cd21e552537c7c0b#%40ru_hight_vpn_bot
+vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?security=reality&encryption=none&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=cd21e552537c7c0b#%40ru_hight_vpn_bot
+vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?encryption=none&type=tcp&security=reality&headerType=none&sni=www.samsung.com&fp=chrome&insecure=1&allowInsecure=1&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&sid=cd21e552537c7c0b#%40ru_hight_vpn_bot
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40ru_hight_vpn_bot
+vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?security=reality&encryption=none&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=cd21e552537c7c0b#%40ru_hight_vpn_bot
+vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&sid=cd21e552537c7c0b#%40ru_hight_vpn_bot
+vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?path=/&security=none&encryption=none&type=ws#%40ru_hight_vpn_bot
+vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?path=/&security=none&encryption=none&type=ws#%40ru_hight_vpn_bot
+vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?security=reality&encryption=none&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#%40ru_hight_vpn_bot
+vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?path=/&security=none&encryption=none&type=ws#%40ru_hight_vpn_bot
+vless://0370b162-baff-4757-86cc-cce4bf07f6f1@78.111.89.171:443?security=reality&encryption=none&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&headerType=none&fp=chrome&spx=/fdded5f9698d939&type=tcp&sni=www.cloudflare.com&sid=cfe08c23a85f24#%40ru_hight_vpn_bot
+vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?security=reality&encryption=none&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#%40ru_hight_vpn_bot
+vless://0370b162-baff-4757-86cc-cce4bf07f6f1@78.111.89.171:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&sid=cfe08c23a85f24&spx=/fdded5f9698d939&allowinsecure=1&type=tcp&headerType=none#%40ru_hight_vpn_bot
+vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?path=/&security=none&encryption=none&type=ws#%40ru_hight_vpn_bot
+vless://0370b162-baff-4757-86cc-cce4bf07f6f1@78.111.89.171:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&sid=cfe08c23a85f24&spx=/fdded5f9698d939&allowinsecure=1&type=tcp&headerType=none#%40ru_hight_vpn_bot
+vless://0370b162-baff-4757-86cc-cce4bf07f6f1@78.111.89.171:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&sid=cfe08c23a85f24&spx=/fdded5f9698d939&allowinsecure=1&type=tcp&headerType=none#%40ru_hight_vpn_bot
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.173:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40ru_hight_vpn_bot
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.173:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40ru_hight_vpn_bot
+vless://0bd6aa8d-3bdb-4fa3-893e-75a844e2e409@104.16.101.215:8880?path=/&security=none&encryption=none&host=wispy-cake-ec69.193-bc6.workers.dev&type=ws#%40ru_hight_vpn_bot
 ```
 
 <!-- NODES:END -->
