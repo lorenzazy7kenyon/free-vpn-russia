@@ -23,38 +23,31 @@
 ## 🆓 Бесплатные VPN-конфигурации
 
 <!-- NODES:BEGIN -->
-**🔄 Обновлено: 29.09.2026 15:03 (МСК) · доступных узлов: 22**
+**🔄 Обновлено: 29.09.2026 16:03 (МСК) · доступных узлов: 15**
 
 _Каждый узел прошёл автоматическую проверку: реальное подключение → тест скорости. Список обновляется автоматически._
 
-**VLESS** — 7 шт.
+**VLESS** — 5 шт.
 ```text
 vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?security=reality&encryption=none&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=cd21e552537c7c0b#%40ru_hight_vpn_bot
-vless://3710fc0f-5f0c-4b9c-a5d4-40cb419e943a@144.31.93.231:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=WKN5yaRN05O2WdCURXRmS-yBVYaabaFWOvGudX6ohWc&security=reality&sid=b97e7d4582b6fa6e&sni=yandex.ru&type=tcp#%40ru_hight_vpn_bot
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.244.178:9881?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&sid=aa&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#%40ru_hight_vpn_bot
-vless://1c332eae-7e02-4acd-996d-4eb3e652401c@144.31.50.236:443?security=reality&encryption=none&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=bbe46bd8f6b96839#%40ru_hight_vpn_bot
-vless://52fb52b1-82de-4c6f-b7d3-599ce5d57f1c@104.18.189.234:8880?encryption=none&security=none&type=ws&host=damp-disk-1ae9.138-c4c.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#%40ru_hight_vpn_bot
-vless://20d0a81f-da70-44dc-b9bf-5a5ddab644db@172.66.200.130:8880?encryption=none&host=crimson-lab-6cab.402-311.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#%40ru_hight_vpn_bot
 vless://8df2e661-6f46-471b-9133-7fc13a0daa35@65.109.28.164:443?security=reality&encryption=none&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=web.eitaa.com&sid=90ec9bba2019#%40ru_hight_vpn_bot
+vless://1c332eae-7e02-4acd-996d-4eb3e652401c@144.31.50.236:443?security=reality&encryption=none&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=bbe46bd8f6b96839#%40ru_hight_vpn_bot
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.244.178:9881?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&sid=aa&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#%40ru_hight_vpn_bot
+vless://3c23a041-b686-4d93-af6b-2d793f5c45dc@31.130.155.114:443?security=reality&encryption=none&pbk=aySWi4vGm4__zU_RFNtym1AyjtfY0AX9WoigfVG7hWA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.max.ru&sid=6c183039c8fe2676#%40ru_hight_vpn_bot
 ```
 
-**Trojan** — 15 шт.
+**Trojan** — 10 шт.
 ```text
-trojan://humanity@212.183.88.136:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40ru_hight_vpn_bot
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40ru_hight_vpn_bot
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40ru_hight_vpn_bot
-trojan://humanity@www.calmlunch.com:443?type=ws&security=tls&path=%2Fassignment&sni=www.calmlunch.com&fp=chrome&insecure=0&allowInsecure=0#%40ru_hight_vpn_bot
-trojan://humanity@104.16.174.71:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%40ru_hight_vpn_bot
 trojan://humanity@104.16.174.6:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%40ru_hight_vpn_bot
+trojan://humanity@104.16.174.71:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%40ru_hight_vpn_bot
 trojan://humanity@www.ignitelimit.com:443?allowInsecure=1&path=%2Fassignment&type=ws#%40ru_hight_vpn_bot
-trojan://humanity@104.18.152.208:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%40ru_hight_vpn_bot
+trojan://humanity@104.16.174.12:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#%40ru_hight_vpn_bot
 trojan://humanity@104.18.152.219:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%40ru_hight_vpn_bot
-trojan://Telegram_healer_config@172.67.218.38:443?path=%2Ftr%2FdxyX388XOtyAjF3A%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=1v95V6tjywCyTBAhl7f7lX8B27G.l4495eycQmSE9he0YVoemJfc4IBYf-4.wORkerS.dEV#%40ru_hight_vpn_bot
-trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?security=tls&sni=www.ignitelimit.com&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%40ru_hight_vpn_bot
 trojan://humanity@104.26.14.137:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%40ru_hight_vpn_bot
 trojan://humanity@104.16.174.36:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#%40ru_hight_vpn_bot
-trojan://humanity@104.16.174.12:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#%40ru_hight_vpn_bot
+trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?security=tls&sni=www.ignitelimit.com&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%40ru_hight_vpn_bot
 trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40ru_hight_vpn_bot
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40ru_hight_vpn_bot
 ```
 
 <!-- NODES:END -->
