@@ -23,39 +23,46 @@
 ## 🆓 Бесплатные VPN-конфигурации
 
 <!-- NODES:BEGIN -->
-**🔄 Обновлено: 30.09.2026 02:04 (МСК) · доступных узлов: 23**
+**🔄 Обновлено: 30.09.2026 03:04 (МСК) · доступных узлов: 30**
 
 _Каждый узел прошёл автоматическую проверку: реальное подключение → тест скорости. Список обновляется автоматически._
 
-**Trojan** — 6 шт.
+**Trojan** — 14 шт.
 ```text
 trojan://3c6d1933-b22a-484b-ac8a-63e24f5fba75@jp3.998998.best:443?allowInsecure=1&sni=nat11.outsidemyheart.space&type=ws&host=nat11.outsidemyheart.space&path=/w4e5yh0p945y3#%40ru_hight_vpn_bot
 trojan://3c6d1933-b22a-484b-ac8a-63e24f5fba75@104.18.41.190:443?sni=nat11.outsidemyheart.space&type=ws&host=nat11.outsidemyheart.space&path=/w4e5yh0p945y3&allowInsecure=1#%40ru_hight_vpn_bot
+trojan://-wb.oDfOeHifTGMVEf@188.114.96.8:443?sni=c0yR9J09Y2l9G0td8wA5.2wHbrirHJgSlM43zJcqeI.WoRkERS.dEv&type=ws&path=/tr/DUxfWnCsYjSEOWSUGmnz?ed=2560&alpn=http/1.1&fp=chrome#%40ru_hight_vpn_bot
+trojan://-wb.oDfOeHifTGMVEf@188.114.97.8:443?sni=C0yR9j09Y2l9G0tD8wa5.2wHBRirhjGslM43zJCqEi.worKeRs.DEV&type=ws&path=/tr/JkwIXZZlza6sgoi9?ed=2560&alpn=http/1.1&fp=chrome#%40ru_hight_vpn_bot
+trojan://-wb.oDfOeHifTGMVEf@c0yr9j09y2l9g0td8wa5.2whbrirhjgslm43zjcqei.workers.dev:443?sni=c0YR9J09y2l9G0Td8WA5.2whBRirhjgsLm43ZJcqei.WoRKers.DEv&type=ws&path=/tr/CRGrZTTVLMALBJkE4?ed=2560&alpn=http/1.1&fp=chrome#%40ru_hight_vpn_bot
+trojan://-wb.oDfOeHifTGMVEf@www.speedtest.net:443?sni=C0Yr9J09Y2L9g0TD8Wa5.2WHbRIRHJgsLM43zjCQEi.WOrKers.dEV&type=ws&path=/tr/0dFnQCEXVxSVDEE82uUI?ed=2560&alpn=http/1.1&fp=chrome#%40ru_hight_vpn_bot
 trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.70.21:443?fp=unsafe&host=id1.nathaya.web.id&path=/trojan&security=tls&sni=id1.nathaya.web.id&type=ws#%40ru_hight_vpn_bot
 trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.83.135:443?path=/trojan&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=id1.nathaya.web.id#%40ru_hight_vpn_bot
 trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@172.67.176.157:443?sni=id1.nathaya.web.id&allowInsecure=1&type=ws&path=/trojan&fp=chrome#%40ru_hight_vpn_bot
 trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@edu.ruangguru.com:443/?type=ws&host=id1.nathaya.web.id&path=/trojan&security=tls&sni=id1.nathaya.web.id&allowInsecure=1#%40ru_hight_vpn_bot
+trojan://0hbl*0RB4T,LSk;JK@104.21.72.201:2096?path=/tr/d2y5re8Z9iqkUtWNtSR&security=tls&insecure=0&type=ws&allowInsecure=0&sni=14SW2KRBEO0wv7GZ32H3BnJ.HalABiA061.workeRs.DEv#%40ru_hight_vpn_bot
+trojan://1710442808@104.18.12.149:443?security=tls&sni=subb.nrshop198.workers.dev&allowInsecure=1&type=ws&host=subb.nrshop198.workers.dev&path=%2F#%40ru_hight_vpn_bot
+trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.16.148.5:443?sni=dimskiee.biz.id&type=ws&path=/WangCai-8&fp=chrome#%40ru_hight_vpn_bot
+trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?host=dimskiee.biz.id&path=/WangCai-8&security=tls&sni=dimskiee.biz.id&type=ws#%40ru_hight_vpn_bot
 ```
 
-**Hysteria2** — 17 шт.
+**Hysteria2** — 16 шт.
 ```text
-hysteria2://cloud:Wz8cE3yFhL9dXoSp@ss.marmount.space:8443?sni=ss.marmount.space#%40ru_hight_vpn_bot
 hysteria2://dongtaiwang.com@hy2.561891.xyz:44356?sni=hy2.561891.xyz#%40ru_hight_vpn_bot
 hysteria2://dongtaiwang.com@142.249.37.90:44356?sni=hy2.561891.xyz#%40ru_hight_vpn_bot
-hysteria2://BWAFlp8g53@hys28.wba-pn.ru:443?insecure=1#%40ru_hight_vpn_bot
 hysteria2://CnVfXXvMzh@72.56.92.120:443?insecure=1&sni=hys13.wba-pn.ru#%40ru_hight_vpn_bot
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?sni=hy2.123266.xyz#%40ru_hight_vpn_bot
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?sni=hy2.123266.xyz#%40ru_hight_vpn_bot
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?insecure=1#%40ru_hight_vpn_bot
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443/?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&sni=hy2.aspidnet.xyz#%40ru_hight_vpn_bot
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#%40ru_hight_vpn_bot
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.181:8080?insecure=1&sni=hopp-romania-new.roxa.org#%40ru_hight_vpn_bot
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.178:8080?insecure=1&sni=hopp-romania-new.roxa.org#%40ru_hight_vpn_bot
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443?sni=admin.wwwinternetvideo.click#%40ru_hight_vpn_bot
 hysteria2://CnVfXXvMzh@hys13.wba-pn.ru:443?insecure=1&sni=hys13.wba-pn.ru#%40ru_hight_vpn_bot
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=0&sni=hy2-new.aspidnet.xyz#%40ru_hight_vpn_bot
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443?sni=admin.wwwinternetvideo.click#%40ru_hight_vpn_bot
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443?insecure=1#%40ru_hight_vpn_bot
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443?insecure=1&sni=admin.wwwinternetvideo.click#%40ru_hight_vpn_bot
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@144.31.49.47:443?insecure=1&sni=admin.wwwinternetvideo.click#%40ru_hight_vpn_bot
+hysteria2://BWAFlp8g53@hys28.wba-pn.ru:443?insecure=1#%40ru_hight_vpn_bot
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?sni=hy2.123266.xyz#%40ru_hight_vpn_bot
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?sni=hy2.123266.xyz#%40ru_hight_vpn_bot
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?insecure=1#%40ru_hight_vpn_bot
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.178:8080?insecure=1&sni=hopp-romania-new.roxa.org#%40ru_hight_vpn_bot
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.181:8080?insecure=1&sni=hopp-romania-new.roxa.org#%40ru_hight_vpn_bot
 ```
 
 <!-- NODES:END -->
